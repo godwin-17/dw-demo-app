@@ -1,0 +1,1 @@
+File esempio trigger automatico workflow.
